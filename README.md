@@ -1,16 +1,33 @@
-# 📊 Netflix Movies Duration Analysis (1990s)
-This project analyzes Netflix's movie dataset, focusing on movies released in the 1990s (1990–1999). The objective is to explore the distribution of movie durations during that decade and identify how many short action movies (less than 90 minutes) were released.
+# 🎬 Netflix 1990s Movies Duration Analysis
 
-## 📌 Key Features:
-📅 Filters the dataset to include only movies from the 1990s.
+![Netflix Banner](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 
-🎬 Identifies and counts short action movies based on runtime.
+> An exploratory data analysis project using Python to discover duration trends and short action movies on Netflix during the 1990s.
 
-🧼 Cleans and processes string-based duration data.
 
-📈 Visualizes the distribution of movie durations using a histogram.
+## 📌 Project Description
 
-🧠 Uses Pandas and Matplotlib for data analysis and plotting.
+This project dives into the Netflix dataset to explore movies that were released in the 1990s (1990–1999). The main objectives are:
 
-## 📁 Dataset:
-The dataset used is netflix_data.csv, which contains information about Netflix titles including type, title, release year, duration, genre, etc.
+- 📅 Filter movies based on release year (1990s).
+- 🎬 Focus on action genre.
+- ⏱️ Count short movies (under 90 minutes).
+- 📈 Visualize movie duration distribution using a histogram.
+
+
+## 💡 Features
+
+- Data filtering using Pandas
+- Handling missing data and converting strings (e.g., `"90 min"` → `90`)
+- Creating new columns for analysis
+- Counting short action movies
+- Visualization using Matplotlib
+- Clear and beginner-friendly code structure
+
+## 🧰 Technologies Used
+
+- Python 🐍
+- Jupyter Notebook 📓
+- Pandas 📊
+- Matplotlib 📉
+
