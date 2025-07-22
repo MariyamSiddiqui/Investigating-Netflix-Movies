@@ -1,2 +1,2 @@
 # Investigating-Netflix-Movies
-In this project, we analyze Netflix's movie dataset to focus specifically on movies released in the 1990s (from 1990 to 1999). 
+In this project, we analyze Netflix's movie dataset to focus specifically on movies released in the 1990s (from 1990 to 1999). The goal is to explore the distribution of movie durations during that decade and identify how many short action movies were made. A short movie is defined as one with a duration of less than 90 minutes. Using data filtering, cleaning, and visualization, we aim to gain insights into movie trends from the 1990s.
