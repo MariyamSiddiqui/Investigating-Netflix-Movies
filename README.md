@@ -1,4 +1,4 @@
-# 🎬 Netflix 1990s Movies Duration Analysis
+# 🎬 Netflix 1990s Movies Duration Analysis Project
 
 ![Netflix Banner](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 
